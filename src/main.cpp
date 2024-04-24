@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "wiebeer";
+const char* ssid = "newwifi";
 const char* password = "15152123";
 
 const int ledPin = 2; // Pin connected to the LED
