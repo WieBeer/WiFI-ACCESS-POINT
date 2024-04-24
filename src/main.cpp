@@ -2,7 +2,7 @@
 #include <WebServer.h>
 
 const char* ssid = "wiebeer";
-const char* password = "15152123";
+const char* password = "newpass";
 
 const int ledPin = 2; // Pin connected to the LED
 
